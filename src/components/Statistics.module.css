@@ -1,0 +1,12 @@
+.statistics_group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  gap: 20px;
+  margin-bottom: 20px;
+  list-style-type: none;
+}
+.statistics_item {
+  font-size: 20px;
+}
